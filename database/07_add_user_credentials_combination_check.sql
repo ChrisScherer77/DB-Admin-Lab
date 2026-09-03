@@ -1,3 +1,4 @@
+
 ALTER TABLE app.user_credentials
 ADD CONSTRAINT chk_user_credentials_provider_type
 CHECK (
